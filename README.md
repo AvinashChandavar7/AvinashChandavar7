@@ -52,6 +52,12 @@
 
 ###
 
+
+
+<img src="https://raw.githubusercontent.com/AvinashChandavar7/AvinashChandavar7/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Avinashchandavar7&&style=flat-square" align="center" />
