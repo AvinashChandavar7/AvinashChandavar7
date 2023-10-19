@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is <span color='blue '>Avinash</span></h1>
+<h1 align="center">Hi 👋! My name is <span style="color:blue">Avinash</span></h1>
 
 
 
